@@ -1,0 +1,13 @@
+C:\ADM\DIO\Console\DesafioBanco\bin\Debug\netcoreapp3.1\DesafioBanco.exe
+C:\ADM\DIO\Console\DesafioBanco\bin\Debug\netcoreapp3.1\DesafioBanco.deps.json
+C:\ADM\DIO\Console\DesafioBanco\bin\Debug\netcoreapp3.1\DesafioBanco.runtimeconfig.json
+C:\ADM\DIO\Console\DesafioBanco\bin\Debug\netcoreapp3.1\DesafioBanco.runtimeconfig.dev.json
+C:\ADM\DIO\Console\DesafioBanco\bin\Debug\netcoreapp3.1\DesafioBanco.dll
+C:\ADM\DIO\Console\DesafioBanco\bin\Debug\netcoreapp3.1\DesafioBanco.pdb
+C:\ADM\DIO\Console\DesafioBanco\obj\Debug\netcoreapp3.1\DesafioBanco.csprojAssemblyReference.cache
+C:\ADM\DIO\Console\DesafioBanco\obj\Debug\netcoreapp3.1\DesafioBanco.AssemblyInfoInputs.cache
+C:\ADM\DIO\Console\DesafioBanco\obj\Debug\netcoreapp3.1\DesafioBanco.AssemblyInfo.cs
+C:\ADM\DIO\Console\DesafioBanco\obj\Debug\netcoreapp3.1\DesafioBanco.csproj.CoreCompileInputs.cache
+C:\ADM\DIO\Console\DesafioBanco\obj\Debug\netcoreapp3.1\DesafioBanco.dll
+C:\ADM\DIO\Console\DesafioBanco\obj\Debug\netcoreapp3.1\DesafioBanco.pdb
+C:\ADM\DIO\Console\DesafioBanco\obj\Debug\netcoreapp3.1\DesafioBanco.genruntimeconfig.cache
